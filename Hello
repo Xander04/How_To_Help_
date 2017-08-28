@@ -1,1 +1,31 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>No Bullying Ways to Prevent it</title>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="Anti_Bullying.css">
+</head>
+<body>
+  <div id="Header">
+    <h1> How to Help Someone Who is Being Bullied </h1>
+  </div>
+  <div id="Slogan">
+  <h2>The Unessasary Emotional Roller Coster</h2>
+  <div id="Back">
+    <a href="Anti-bullying_home.html" class="btn">
+      <h3> Home </h3>
+    </a>
+  </div>
+    <div id="picturs" align="left">
+      <img src="placeholder_image.jpg" alt="Oh wow" style="height:456px;width:608px;">
+    </div>
+      <div id="picturs" align="right">
+      <img src="placeholder_image.jpg" alt="Oh wow" style="height:456px;width:608px;">
+    </div>
+    <div id="Info">
+      <p>
+i think i might have just got git hub working
+      </p> i dont know to accsept the request
+    </div>
+  </body>
+  </html>
